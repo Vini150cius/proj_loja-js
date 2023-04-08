@@ -60,27 +60,27 @@
 			</nav>
 			</div>
 			<div class="col-sm-9">
-				<h1 style="color="red""> VIP </h1>
+				<h1> VIP </h1>
 				
 				<div class="row">
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\cat-flyer.jpg" type="img/jpg" alt="Gatinho Voando" width="400px" height="auto"/>
+						<img src="img\" type="img/jpg" alt="Gatinho Voando" width="400px" height="auto"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\dog-flyer.jpg" type="img/jpg" alt="Cachorro Voando" width="400px" height="auto"/>
+						<img src="img\" type="img/jpg" alt="Cachorro Voando" width="400px" height="auto"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\hen-flyer.jpg" type="img/jpg" alt="Galinha Voadora" width="400px" height="auto"/>
+						<img src="img\" type="img/jpg" alt="Galinha Voadora" width="400px" height="auto"/>
 					</div>
 			
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\mustang.jpg" type="img/jpg" alt="Mustang antigo" width="400px" height="auto"/>
+						<img src="img\" type="img/jpg" alt="Mustang antigo" width="400px" height="auto"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\lamborghini.jpg" type="img/jpg" alt="Lamborghini Revuelto" width="400px" height="auto"/>
+						<img src="img\" type="img/jpg" alt="Lamborghini Revuelto" width="400px" height="auto"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\porsche.jpg" type="img/jpg" alt="Porsche 911" width="400px" height="auto"/>
+						<img src="img\" type="img/jpg" alt="Porsche 911" width="400px" height="auto"/>
 					</div>
 				</div>
 			</div>	
