@@ -15,14 +15,14 @@
 				<!-- Lista não ordenada -->
 				<ul class="navbar-nav"> 
 					<!-- Item da lista -->
-					<li class="nav-item active"> 
+					<li class="nav-item"> 
 						<!-- Link vazio -->
 						<a class="nav-link" href="../index.html"> Home </a>
 					</li>
 					<li class="nav-item"> 
 						<a class="nav-link" href="roupas.html"> Roupas </a> 
 					</li>
-					<li class="nav-item">
+					<li class="nav-item  active">
 						<a class="nav-link" href="#"> Calçados </a> 
 					</li>
 					<li class="nav-item"> 

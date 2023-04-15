@@ -44,16 +44,16 @@
 						<!-- Item da lista -->
 						<li class="nav-item active"> 
 							<!-- Link vazio -->
-							<a class="nav-link" href="#"> Novidades </a>
+							<a class="nav-link" href="pages/novidades.html"> Novidades </a>
 						</li>
 						<li class="nav-item"> 
-							<a class="nav-link" href="#"> Promoções </a> 
+							<a class="nav-link" href="pages/promocoes.html"> Promoções </a> 
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#"> Mais vendidos </a> 
+							<a class="nav-link" href="pages/mais-vendidos.html"> Mais vendidos </a> 
 						</li>
 						<li class="nav-item"> 
-							<a class="nav-link" href="#"> Últimas unidades </a>
+							<a class="nav-link" href="pages/ultimas-unidades"> Últimas unidades </a>
 						</li>
 					</ul>
 				</div>
@@ -64,23 +64,23 @@
 				
 				<div class="row">
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\" type="img/jpg" alt="Gatinho Voando" width="400px" height="auto"/>
+						<img src="img\acessorios/garrafa.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\" type="img/jpg" alt="Cachorro Voando" width="400px" height="auto"/>
+						<img src="img\acessorios/luvadeacademia.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\" type="img/jpg" alt="Galinha Voadora" width="400px" height="auto"/>
+						<img src="img\calcados/masculino1.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
 					</div>
 			
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\" type="img/jpg" alt="Mustang antigo" width="400px" height="auto"/>
+						<img src="img\calcados/masculino2.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\" type="img/jpg" alt="Lamborghini Revuelto" width="400px" height="auto"/>
+						<img src="img\roupas\calça.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="img\" type="img/jpg" alt="Porsche 911" width="400px" height="auto"/>
+						<img src="img\roupas/moletom.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
 					</div>
 				</div>
 			</div>	

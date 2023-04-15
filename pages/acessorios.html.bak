@@ -15,7 +15,7 @@
 				<!-- Lista não ordenada -->
 				<ul class="navbar-nav"> 
 					<!-- Item da lista -->
-					<li class="nav-item active"> 
+					<li class="nav-item"> 
 						<!-- Link vazio -->
 						<a class="nav-link" href="../index.html"> Home </a>
 					</li>
@@ -26,7 +26,7 @@
 						<a class="nav-link" href="calcados.html"> Calçados </a> 
 					</li>
 					<li class="nav-item"> 
-						<a class="nav-link" href="acessorios.html"> Acessórios </a>
+						<a class="nav-link active" href="acessorios.html"> Acessórios </a>
 					</li>
 				</ul>
 			</div>

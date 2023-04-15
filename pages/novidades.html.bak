@@ -17,9 +17,9 @@
 					<!-- Item da lista -->
 					<li class="nav-item"> 
 						<!-- Link vazio -->
-						<a class="nav-link" href="../index.html"> Home </a>
+						<a class="nav-link active" href="../index.html"> Home </a>
 					</li>
-					<li class="nav-item active"> 
+					<li class="nav-item"> 
 						<a class="nav-link" href="roupas.html"> Roupas </a> 
 					</li>
 					<li class="nav-item">
@@ -35,9 +35,6 @@
 		<div class="row">
 			<div class="col-sm-3">
 			<!-- Tag de navegação -->
-			<nav class="nav bg-light navbar-light">
-
-				<!-- Divisão de componentes -->
 				<div>
 					<!-- Lista não ordenada -->
 					<ul class="nav flex-column"> 
@@ -57,17 +54,16 @@
 						</li>
 					</ul>
 				</div>
-			</nav>
 			</div>
 			<div class="col-sm-9">
-				<h1> VIP - Roupas </h1>
+				<h1> VIP - Novidades </h1>
 				
 				<div class="row">
 					<div class="float-left m-2 col-sm-4">
-						<img src="../img\roupas\masculino1.jpg" type="img/jpg" alt="Regata branca" width="400px" height="auto"/>
+						<img src="../img\roupas\masculino3.jpg" type="img/jpg" alt="Regata branca" width="400px" height="auto"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
-						<img src="../img\roupas\masculino2.jpg" type="img/jpg" alt="Regata preta" width="400px" height="auto"/>
+						<img src="../img\roupas\bermuda.jpg" type="img/jpg" alt="Regata preta" width="400px" height="auto"/>
 					</div>
 					<div class="float-left m-2 col-sm-4">
 						<img src="../img\roupas\masculino3.jpg" type="img/jpg" alt="Regata azul" width="400px" height="auto"/>

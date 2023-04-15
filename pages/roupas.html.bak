@@ -15,11 +15,11 @@
 				<!-- Lista não ordenada -->
 				<ul class="navbar-nav"> 
 					<!-- Item da lista -->
-					<li class="nav-item active"> 
+					<li class="nav-item"> 
 						<!-- Link vazio -->
 						<a class="nav-link" href="../index.html"> Home </a>
 					</li>
-					<li class="nav-item"> 
+					<li class="nav-item active"> 
 						<a class="nav-link" href="#"> Roupas </a> 
 					</li>
 					<li class="nav-item">
@@ -44,16 +44,16 @@
 						<!-- Item da lista -->
 						<li class="nav-item active"> 
 							<!-- Link vazio -->
-							<a class="nav-link" href="#"> Novidades </a>
+							<a class="nav-link" href="novidades.html"> Novidades </a>
 						</li>
 						<li class="nav-item"> 
-							<a class="nav-link" href="#"> Promoções </a> 
+							<a class="nav-link" href="promocoes.html"> Promoções </a> 
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#"> Mais vendidos </a> 
+							<a class="nav-link" href="mais-vendidos.html"> Mais vendidos </a> 
 						</li>
 						<li class="nav-item"> 
-							<a class="nav-link" href="#"> Últimas unidades </a>
+							<a class="nav-link" href="ultimas-unidades.html"> Últimas unidades </a>
 						</li>
 					</ul>
 				</div>
