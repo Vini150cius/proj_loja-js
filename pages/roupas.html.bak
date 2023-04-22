@@ -20,7 +20,7 @@
 						<a class="nav-link" href="../index.html"> Home </a>
 					</li>
 					<li class="nav-item active"> 
-						<a class="nav-link" href="#"> Roupas </a> 
+						<a class="nav-link" href="roupas.html"> Roupas </a> 
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="calcados.html"> Calçados </a> 
@@ -63,24 +63,70 @@
 				<h1> VIP - Roupas </h1>
 				
 				<div class="row">
-					<div class="float-left m-2 col-sm-4">
-						<img src="../img\roupas\masculino1.jpg" type="img/jpg" alt="Regata branca" width="400px" height="auto"/>
+					<div class="float-left m-2 col-sm-3">
+						<h3> Regata Branca </h3>
+						<img src="../img\roupas\masculino1.jpg" type="img/jpg" alt="Regata branca" width="300px" height="auto"/>
+						<p> Uma comfortavel regata branca </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 180,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="../img\roupas\masculino2.jpg" type="img/jpg" alt="Regata preta" width="400px" height="auto"/>
+					
+					<div class="float-left m-2 col-sm-3">
+						<h3> Regata Preta </h3>
+						<img src="../img\roupas\masculino2.jpg" type="img/jpg" alt="Regata preta" width="300px" height="auto"/>
+						<p> Uma comfortavel regata preta </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 175,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="../img\roupas\masculino3.jpg" type="img/jpg" alt="Regata azul" width="400px" height="auto"/>
+					
+					<div class="float-left m-2 col-sm-3">
+						<h3> Regata Azul </h3>
+						<img src="../img\roupas\masculino3.jpg" type="img/jpg" alt="Regata azul" width="300px" height="auto"/>
+						<p> Uma comfortavel regata azul </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 189,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
 			
-					<div class="float-left m-2 col-sm-4">
-						<img src="../img\roupas\calça.jpg" type="img/jpg" alt="calça preta" width="400px" height="auto"/>
+					<div class="float-left m-2 col-sm-3">
+						<h3> Calça Preta </h3>
+						<img src="../img\roupas\calça.jpg" type="img/jpg" alt="calça preta" width="300px" height="auto"/>
+						<p> Uma comfortavel calça preta </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 99,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="../img\roupas\moletom.jpg" type="img/jpg" alt="Moletom cinza" width="400px" height="auto"/>
+					
+					<div class="float-left m-2 col-sm-3">
+						<h3> Moletom Cinza </h3>
+						<img src="../img\roupas\moletom.jpg" type="img/jpg" alt="Moletom cinza" width="300px" height="auto"/>
+						<p> Uma comfortavel moletom cinza </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 199,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="../img\roupas\bermuda.jpg" type="img/jpg" alt="Bermuda pretta" width="400px" height="auto"/>
+
+					<div class="float-left m-2 col-sm-3">
+						<h3> Bermuda Preta </h3>
+						<img src="../img\roupas\bermuda.jpg" type="img/jpg" alt="Bermuda preta" width="300px" height="auto"/>
+						<p> Uma comfortavel bermuda preta </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 89,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
 				</div>
 			</div>	

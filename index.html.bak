@@ -53,7 +53,7 @@
 							<a class="nav-link" href="pages/mais-vendidos.html"> Mais vendidos </a> 
 						</li>
 						<li class="nav-item"> 
-							<a class="nav-link" href="pages/ultimas-unidades"> Últimas unidades </a>
+							<a class="nav-link" href="pages/ultimas-unidades.html"> Últimas unidades </a>
 						</li>
 					</ul>
 				</div>
@@ -63,24 +63,66 @@
 				<h1> VIP </h1>
 				
 				<div class="row">
-					<div class="float-left m-2 col-sm-4">
-						<img src="img\acessorios/garrafa.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
+					<div class="float-left m-2 col-sm-3">
+						<h3> Garrafa Grande </h3>
+						<img src="img\acessorios/garrafa.jpg" type="img/jpg" alt="" width="300px" height="auto"/>
+						<p> Uma garrafa grande </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 89,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="img\acessorios/luvadeacademia.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
+					<div class="float-left m-2 col-sm-3">
+						<h3> Luva de academia </h3>
+						<img src="img\acessorios/luvadeacademia.jpg" type="img/jpg" alt="" width="300px" height="auto"/>
+						<p> Uma garrafa grande </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 89,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="img\calcados/masculino1.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
+					<div class="float-left m-2 col-sm-3">
+						<h3> Tenis azul claro </h3>
+						<img src="img\calcados/masculino1.jpg" type="img/jpg" alt="" width="300px" height="auto"/>
+						<p> Uma garrafa grande </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 89,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
 			
-					<div class="float-left m-2 col-sm-4">
-						<img src="img\calcados/masculino2.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
+					<div class="float-left m-2 col-sm-3">
+						<h3> Tenis cinza e azul </h3>
+						<img src="img\calcados/masculino2.jpg" type="img/jpg" alt="" width="300px" height="auto"/>
+						<p> Uma garrafa grande </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 89,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="img\roupas\calça.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
+					<div class="float-left m-2 col-sm-3">
+						<h3> Calça Preta </h3>
+						<img src="img\roupas\calça.jpg" type="img/jpg" alt="" width="300px" height="auto"/>
+						<p> Uma garrafa grande </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 89,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
-					<div class="float-left m-2 col-sm-4">
-						<img src="img\roupas/moletom.jpg" type="img/jpg" alt="" width="400px" height="auto"/>
+					<div class="float-left m-2 col-sm-3">
+						<h3> Moletom cinza </h3>
+						<img src="img\roupas/moletom.jpg" type="img/jpg" alt="" width="300px" height="auto"/>
+						<p> Uma garrafa grande </p>
+						<div class="row">
+							<p class="col-sm-5">R$ 89,00</p>
+							<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+						</div>
+						<a class="btn btn-success" href="#"> Comprar </a>
 					</div>
 				</div>
 			</div>	
