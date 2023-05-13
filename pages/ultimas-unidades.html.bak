@@ -65,7 +65,7 @@
 				<div class="row">
 					<div class="float-left m-2 col-sm-3">
 						<h3> Calça preta </h3>
-						<img src="../img\roupas\calça.jpg" type="img/jpg" alt="Regata branca" width="400px" height="auto"/>
+						<img src="../img\roupas\calça.jpg" type="img/jpg" alt="Regata branca" width="300px" height="auto"/>
 						<p> Uma comfortavel calça preta </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 99,00</p>
@@ -75,7 +75,7 @@
 					</div>
 					<div class="float-left m-2 col-sm-3">
 						<h3> Mi Band 7 </h3>
-						<img src="../img\acessorios\relogio.jpg" type="img/jpg" alt="Regata preta" width="400px" height="auto"/>
+						<img src="../img\acessorios\relogio.jpg" type="img/jpg" alt="Regata preta" width="300px" height="auto"/>
 						<p> Um relogio de monitoramento </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 219,00</p>
@@ -85,7 +85,7 @@
 					</div>
 					<div class="float-left m-2 col-sm-3">
 						<h3> Moletom Cinza </h3>
-						<img src="../img\roupas\moletom.jpg" type="img/jpg" alt="Regata azul" width="400px" height="auto"/>
+						<img src="../img\roupas\moletom.jpg" type="img/jpg" alt="Regata azul" width="300px" height="auto"/>
 						<p> Um comfortavel moletom cinza </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 199,00</p>
@@ -96,7 +96,7 @@
 			
 					<div class="float-left m-2 col-sm-3">
 						<h3> Tenis Preto </h3>
-						<img src="../img\calcados\masculino3.jpg" type="img/jpg" alt="calça preta" width="400px" height="auto"/>
+						<img src="../img\calcados\masculino3.jpg" type="img/jpg" alt="calça preta" width="300px" height="auto"/>
 						<p> Um comfortavel tenis preto </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 189,00</p>
@@ -106,7 +106,7 @@
 					</div>
 					<div class="float-left m-2 col-sm-3">
 						<h3> Bermuda Preta </h3>
-						<img src="../img\roupas\bermuda.jpg" type="img/jpg" alt="Moletom cinza" width="400px" height="auto"/>
+						<img src="../img\roupas\bermuda.jpg" type="img/jpg" alt="Moletom cinza" width="300px" height="auto"/>
 						<p> Uma comfortavel Bermuda preta </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 89,00</p>
@@ -116,7 +116,7 @@
 					</div>
 					<div class="float-left m-2 col-sm-3">
 						<h3> Mi Band 7 </h3>
-						<img src="../img\acessorios\relogio.jpg" type="img/jpg" alt="Bermuda pretta" width="400px" height="auto"/>
+						<img src="../img\acessorios\relogio.jpg" type="img/jpg" alt="Bermuda pretta" width="300px" height="auto"/>
 						<p> Um relogio de monitoramento </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 219,00</p>
