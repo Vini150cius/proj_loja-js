@@ -15,36 +15,35 @@
 		<link rel="mask-icon" href="../img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 		<meta name="msapplication-TileColor" content="#da532c">
 		<meta name="theme-color" content="#ffffff">
-	</head>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 	</head>
 	<body>
-		
-		<!-- Tag de navegação -->
-		<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-
-			<!-- Divisão de componentes -->
-			<div>
-				<!-- Lista não ordenada -->
-				<ul class="navbar-nav"> 
-					<!-- Item da lista -->
-					<li class="nav-item"> 
-						<!-- Link vazio -->
-						<a class="nav-link" href="../index.html"> Home </a>
-					</li>
-					<li class="nav-item active"> 
-						<a class="nav-link" href="roupas.html"> Roupas </a> 
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="calcados.html"> Calçados </a> 
-					</li>
-					<li class="nav-item"> 
-						<a class="nav-link" href="acessorios.html"> Acessórios </a>
-					</li>
-				</ul>
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<a class="navbar-brand" href="../index.html"><img src="../img/favicons/favicon.ico" alt="Logo"></a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+			  <span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNav">
+			  <ul class="navbar-nav">
+				<li class="nav-item">
+				  <a class="nav-link" href="../index.html">Home</a>
+				</li>
+				<li class="nav-item active">
+				  <a class="nav-link" href="roupas.html"> Roupas </a>
+				</li>
+				<li class="nav-item">
+				  <a class="nav-link" href="calcados.html"> Calçados </a>
+				</li>
+				<li class="nav-item">
+				  <a class="nav-link" href="acessorios.html"> Acessórios</a>
+				</li>
+			  </ul>
 			</div>
-		</nav>
-		
-		<div class="row">
+		  </nav>
+		  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+		  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+		  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+		  <div class="row">
 			<div class="col-sm-3">
 			<!-- Tag de navegação -->
 			<nav class="nav bg-light navbar-light">
@@ -56,16 +55,16 @@
 						<!-- Item da lista -->
 						<li class="nav-item active"> 
 							<!-- Link vazio -->
-							<a class="nav-link" href="novidades.html"> Novidades </a>
+							<a class="nav-link" href="novidades.html" style="color: black;"> Novidades </a>
 						</li>
 						<li class="nav-item"> 
-							<a class="nav-link" href="promocoes.html"> Promoções </a> 
+							<a class="nav-link" href="promocoes.html" style="color: black;"> Promoções </a> 
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="mais-vendidos.html"> Mais vendidos </a> 
+							<a class="nav-link" href="mais-vendidos.html" style="color: black;"> Mais vendidos </a> 
 						</li>
 						<li class="nav-item"> 
-							<a class="nav-link" href="ultimas-unidades.html"> Últimas unidades </a>
+							<a class="nav-link" href="ultimas-unidades.html" style="color: black;"> Últimas unidades </a>
 						</li>
 					</ul>
 				</div>
@@ -77,7 +76,7 @@
 				<div class="row">
 					<div class="float-left m-2 col-sm-3">
 						<h3> Regata Branca </h3>
-						<a href="produtos/regata-branca.html"> <img src="../img\roupas\masculino1.jpg" type="img/jpg" alt="Regata branca" width="300px" height="auto"/> </a>
+						<a href="produtos/regata-branca.html"> <img src="../img\roupas\masculino1.jpg" type="img/jpg" alt="Regata branca" width="200px" height="auto"/> </a>
 						<p> Uma comfortavel regata branca </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 180,00</p>
@@ -88,7 +87,7 @@
 					
 					<div class="float-left m-2 col-sm-3">
 						<h3> Regata Preta </h3>
-						<a href="produtos/regata-preta.html"> <img src="../img\roupas\masculino2.jpg" type="img/jpg" alt="Regata preta" width="300px" height="auto"/> </a>
+						<a href="produtos/regata-preta.html"> <img src="../img\roupas\masculino2.jpg" type="img/jpg" alt="Regata preta" width="200px" height="auto"/> </a>
 						<p> Uma comfortavel regata preta </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 175,00</p>
@@ -99,7 +98,7 @@
 					
 					<div class="float-left m-2 col-sm-3">
 						<h3> Regata Azul </h3>
-						<a href="produtos/regata-azul.html"> <img src="../img\roupas\masculino3.jpg" type="img/jpg" alt="Regata azul" width="300px" height="auto"/> </a>
+						<a href="produtos/regata-azul.html"> <img src="../img\roupas\masculino3.jpg" type="img/jpg" alt="Regata azul" width="200px" height="auto"/> </a>
 						<p> Uma comfortavel regata azul </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 189,00</p>
@@ -110,7 +109,7 @@
 			
 					<div class="float-left m-2 col-sm-3">
 						<h3> Calça Preta </h3>
-						<a href="produtos/calca-moletom.html"> <img src="../img\roupas\calça.jpg" type="img/jpg" alt="calça preta" width="300px" height="auto"/> </a>
+						<a href="produtos/calca-moletom.html"> <img src="../img\roupas\calça.jpg" type="img/jpg" alt="calça preta" width="200px" height="auto"/> </a>
 						<p> Uma comfortavel calça preta </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 99,00</p>
@@ -121,7 +120,7 @@
 					
 					<div class="float-left m-2 col-sm-3">
 						<h3> Moletom Cinza </h3>
-						<a href="produtos/moletom-cinza.html"> <img src="../img\roupas\moletom.jpg" type="img/jpg" alt="Moletom cinza" width="300px" height="auto"/> </a>
+						<a href="produtos/moletom-cinza.html"> <img src="../img\roupas\moletom.jpg" type="img/jpg" alt="Moletom cinza" width="200px" height="auto"/> </a>
 						<p> Um comfortavel moletom cinza </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 199,00</p>
@@ -132,7 +131,7 @@
 
 					<div class="float-left m-2 col-sm-3">
 						<h3> Bermuda Preta </h3>
-						<a href="produtos/bermuda-preta.html"> <img src="../img\roupas\bermuda.jpg" type="img/jpg" alt="Bermuda preta" width="300px" height="auto"/> </a>
+						<a href="produtos/bermuda-preta.html"> <img src="../img\roupas\bermuda.jpg" type="img/jpg" alt="Bermuda preta" width="200px" height="auto"/> </a>
 						<p> Uma comfortavel bermuda preta </p>
 						<div class="row">
 							<p class="col-sm-5">R$ 89,00</p>
